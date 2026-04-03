@@ -6,3 +6,16 @@
 !CLAUDE.md
 !README.md
 !.env.example
+!pyproject.toml
+!uv.lock
+!search/
+!search/index.py
+!search/search.py
+!reference/
+!reference/zotero-operations.md
+!reference/perplexity-operations.md
+
+# Re-ignore within whitelisted dirs
+search/dev/
+search/embeddings/
+search/summaries/
